@@ -1,9 +1,29 @@
+<span style="font-family: Verdana;">
+
 # Laboratorio-git
+
+<span style="font-family: Times New Roman;">
+
+**Bloque:**
+Modelación de la Ingeniería y Ciencias
+
+**Nombre del entregable:**
+Laboratorio Git: Resumen
+
+**Grupo:**
+105
+
+**Profesor:**
+Octavio Navarro
+
+**Alumno:**
 Diego Córdova Rodríguez, A01781166
+
+<span style="font-family: Verdana;">
 
 ## ¿Qué es Github? :monocle_face:
 
-Github es un sitio web mediante el cual se pueden crear repositorios; es decir, un lugar en el que puedes <span style="color:red;">almacenar archivos y su respectivo historial de revisión.
+**Github** es un sitio web mediante el cual se pueden crear repositorios; es decir, un lugar en el que puedes <span style="color:red;">almacenar archivos y su respectivo historial de revisión.
 
 A través de los repositorios se puede trabajar en equipo, colaborar, trabajar en distintas revisiones o versiones de un mismo archivo, etc. Finalmente, se puede subir, descargar o clonar el repositorio <span style="color:blue;">(mediante comandos en git o integraciones de Visual Studio Code).
 
@@ -59,9 +79,9 @@ Una vez clonado el repositorio de forma local, empezamos a subir archivos a la c
 
 Entre los comandos que utilizamos en esta última fase, se encuentran los siguientes (ejecutar en este orden):
 
-`git add -A`: Subir todos los cambios realizados a la zona de pruebas de git
-`git commit -m "Descripción"`: Comentar los cambios realizados. Se suben los cambios al repositorio local
-`git push -u origin main`: Sube todos los cambios ya comentados a la rama main del repositorio en Github.
+- `git add -A`: Subir todos los cambios realizados a la zona de pruebas de git
+- `git commit -m "Descripción"`: Comentar los cambios realizados. Se suben los cambios al repositorio local
+- `git push -u origin main`: Sube todos los cambios ya comentados a la rama main del repositorio en Github.
 
 ![Logo de GitHub](images/githubLogo.png)
 *Logo de Github*

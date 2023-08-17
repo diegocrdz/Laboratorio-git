@@ -60,9 +60,10 @@ Después nos preguntó si deseabamos poner una contraseña para ejecutar cualqui
 
 Una vez hecho esto, se entró a la configuración de Github y copiamos la llave SSH pública.
 
-### Clonar repositorio :floppy_disk:
+### Crear y clonar repositorio :floppy_disk:
 
-Una vez creado y agregado el acceso por SSH, creamos una carpeta local y accedimos a ella a través del comando `cd (ubicación de la carpeta)``
+Una vez creado y agregado el acceso por SSH, creamos una carpeta local y accedimos a ella a través del comando
+`cd (ubicación de la carpeta)`
 
 Algunos otros comandos importantes para ubicarla y revisar los archivos son los siguientes:
 - `pwd`: imprime la carpeta en la que estoy trabajando en este momento
@@ -71,7 +72,7 @@ Algunos otros comandos importantes para ubicarla y revisar los archivos son los 
 - `cd`: changedirectory - le digo a qué carpeta me quiero mover
 - `cat`: ver el contenido de un archivo
 
-Finalmente usamos el comando `git clone` seguido de la url del repositorio para clonarlo a la carpeta local que creamos anteriormente.
+Finalmente usamos el comando `git clone (url del repositorio)` para clonarlo a la carpeta local que creamos anteriormente.
 
 ### Subir contenido al repositorio :arrow_up:
 

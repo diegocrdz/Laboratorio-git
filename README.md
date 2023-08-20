@@ -82,6 +82,17 @@ Una vez Git está instalado, insertar los siguientes comandos:
 *En el caso de MacOS, se seguirá trabajando en la terminal*
 *En el caso de Windows, se hace en Git*
 
+### Añadir Git al Path
+
+**macOS**
+No es necesario realizar, todo se trabaja desde la terminal.
+
+**Windows**
+En el buscador de Windwos, buscar "path". Entrar a la primera opción e ir a:
+*Environment Values/System Variables/Edit/New*
+
+Si ya se encuentra Git, no realizar ningún cambio. Si no aparece se deberá copiar la dirección de instalación de Git.
+
 ### Crear SSH :key:
 
 Secure SHell *(protocolo de red destinado a la conección con una computadora para acceder a ella a través de comandos)*.
@@ -96,12 +107,20 @@ Después nos preguntó si deseabamos poner una contraseña para ejecutar cualqui
 
 `eval "$(ssh-agent -s)"`
 
+**3. Agregar llave privada SSH al ssh-agent**
+
+Si no agregaste una llave privada puedes saltarte este paso. Si no, usar el siguiente comando:
+
+`ssh-add ~/.ssh/id_ed25519`
+*Sustituir "_id_ed25519" con el nombre de tu archivo de clave privada*
+
 **3. Copiar SSH al portapapeles**
 
 `ssh-add ~/.ssh/id_ed25519`
 
 **4. Pegar SSH en GitHub**
-Configuration/SSH & GPG Keys/New SSH Key
+
+En GitHub entrar a "*Configuration/SSH & GPG Keys/New SSH Key*":
 
 *Se nos pedirá un nombre en clave para identificar el SSH*.
 

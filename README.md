@@ -38,11 +38,21 @@ A través de los repositorios se puede trabajar en equipo, colaborar, trabajar e
 
 # Bitácora de progreso :chart_with_upwards_trend:
 
-A lo largo de estas clases, nos hemos adentrado a los aspectos más básicos de Github; es decir, lo que comprende crear un repositorio.
+A lo largo de estas clases, nos hemos adentrado a los aspectos más básicos de Github; es decir, lo que comprende crear un repositorio. De igual forma, aprendimos a clonar un repositorio, un SSH y subir los cambios al repositorio remoto.
 
-Inicialmente, empezamos creando el repositorio directamente en GitHub. En mi caso fue nombrado como Laboratorio-git.
+---
 
 ## Día 1
+
+### Crear repositorio en GitHub
+
+Directamente en GitHub, creamos un repositorio público con las siguientes características:
+
+- Nombre: Laboratorio_git
+- Público
+- Agregar archivo README
+- .gitignore: Nada
+- Licencia: MIT License
 
 ### Instalar Homebrew :arrow_down:
 
@@ -93,6 +103,8 @@ Después nos preguntó si deseabamos poner una contraseña para ejecutar cualqui
 **4. Pegar SSH en GitHub**
 Configuration/SSH & GPG Keys/New SSH Key
 
+*Se nos pedirá un nombre en clave para identificar el SSH*.
+
 ---
 
 ## Día 2
@@ -109,9 +121,9 @@ Algunos otros comandos importantes para ubicarla y revisar los archivos son los 
 - `cd "carpeta"`: changedirectory - le digo a qué carpeta me quiero mover
 - `cat`: ver el contenido de un archivo
 
-### Clonar a un repositorio local
+### Clonar repositorio remoto a una carpeta local
 
-Estando dentro de la carpeta en la que se desea clonar el repositorio (Con el comando `cd "carpeta"`), usar el comando `git clone (url del repositorio)` para clonarlo a la carpeta local que creamos anteriormente.
+Estando dentro de la carpeta en la que se desea clonar el repositorio (Con el comando `cd "carpeta"`), usar el comando `git clone (url de la carpeta)`
 
 *La url del repositorio se encuentra en la página main del repositorio en GitHub*.
 
@@ -128,6 +140,12 @@ Entre los comandos que utilizamos en esta última fase, se encuentran los siguie
 - `git add -A`: Subir todos los cambios realizados a la zona de pruebas de git
 - `git commit -m "Descripción"`: Comentar los cambios realizados. Se suben los cambios al repositorio local
 - `git push -u origin main`: Sube todos los cambios ya comentados a la rama main del repositorio en Github.
+
+### Trabajar desde VS Code:
+
+- Lo único que debemos hacer es abrir la carpeta y modificar los archivos que deseemos.
+- Podemos hacer commits directamente desde VS Code
+- *Es una forma más rápida y cómoda para trabajar*.
 
 ---
 

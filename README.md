@@ -40,7 +40,7 @@ A través de los repositorios se puede trabajar en equipo, colaborar, trabajar e
 
 # Bitácora de progreso :chart_with_upwards_trend:
 
-A lo largo de estas clases, nos hemos adentrado a los aspectos más básicos de Github; es decir, lo que comprende crear un repositorio. De igual forma, aprendimos a clonar un repositorio, un SSH y subir los cambios al repositorio remoto.
+A lo largo de estas clases, nos hemos adentrado a los aspectos más básicos de **GitHub**; es decir, lo que comprende crear un repositorio. De igual forma, aprendimos a clonar un **repositorio**, un **SSH** y **subir los cambios** al repositorio remoto.
 
 ---
 

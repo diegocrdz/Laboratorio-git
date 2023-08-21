@@ -25,11 +25,13 @@ Diego Córdova Rodríguez, A01781166
 
 ---
 
-# ¿Qué es GitHub? :monocle_face:
+# Definiciones :monocle_face:
 
->**Github** es un sitio web mediante el cual se pueden crear repositorios; es decir, un lugar en el que puedes almacenar archivos y su respectivo historial de revisión.
+>**GitHub** es un sitio web mediante el cual se pueden crear repositorios; es decir, un lugar en el que puedes almacenar archivos y su respectivo historial de revisión.
 
-A través de los repositorios se puede trabajar en equipo, colaborar, trabajar en distintas revisiones o versiones de un mismo archivo, etc. Finalmente, se puede subir, descargar o clonar el repositorio <span style="color:blue;">(mediante comandos en git o integraciones de Visual Studio Code).
+>**Git** es un sistema de control de versiones. A través de esto, un clon local es un repositorio de control de versiones del proyecto subido a la nube de forma remota. Se puede utilizar para coolaborar o tener diferentes versiones de un mismo proyecto.
+
+A través de los repositorios se puede trabajar en equipo, colaborar, trabajar en distintas revisiones o versiones de un mismo archivo, etc. Finalmente, se puede subir, descargar o clonar el repositorio <span style="color:purple;">(mediante comandos en Git o integraciones de Visual Studio Code).
 
 ![Logo de GitHub](images/githubLogo.png)
 *Logo de GitHub*
@@ -82,7 +84,7 @@ Una vez Git está instalado, insertar los siguientes comandos:
 *En el caso de MacOS, se seguirá trabajando en la terminal*
 *En el caso de Windows, se hace en Git*
 
-### Añadir Git al Path
+### Añadir Git al Path :book:
 
 **macOS**
 No es necesario realizar, todo se trabaja desde la terminal.
@@ -140,7 +142,7 @@ Algunos otros comandos importantes para ubicarla y revisar los archivos son los 
 - `cd "carpeta"`: changedirectory - le digo a qué carpeta me quiero mover
 - `cat`: ver el contenido de un archivo
 
-### Clonar repositorio remoto a una carpeta local
+### Clonar repositorio remoto a una carpeta local :file_folder:
 
 Estando dentro de la carpeta en la que se desea clonar el repositorio (Con el comando `cd "carpeta"`), usar el comando `git clone (url de la carpeta)`
 
@@ -160,7 +162,7 @@ Entre los comandos que utilizamos en esta última fase, se encuentran los siguie
 - `git commit -m "Descripción"`: Comentar los cambios realizados. Se suben los cambios al repositorio local
 - `git push -u origin main`: Sube todos los cambios ya comentados a la rama main del repositorio en Github.
 
-### Trabajar desde VS Code:
+### Trabajar desde VS Code :computer:
 
 - Lo único que debemos hacer es abrir la carpeta y modificar los archivos que deseemos.
 - Podemos hacer commits directamente desde VS Code
@@ -171,5 +173,6 @@ Entre los comandos que utilizamos en esta última fase, se encuentran los siguie
 # Referencias
 
 - [Descargar Git](https://git-scm.com/downloads)
+- [¿Qué es Git?](https://learn.microsoft.com/es-es/devops/develop/git/what-is-git)
 - [¿Qué son los repositorios?](https://docs.github.com/en/repositories/creating-and-managing-repositories/about-repositories)
 - [Markdown Guide](https://www.markdownguide.org/)

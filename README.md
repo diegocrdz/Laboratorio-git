@@ -18,7 +18,7 @@ Laboratorio Git: Resumen
 **Profesor:**
 Octavio Navarro
 
-**Alumno:**
+**Alumnos:**
 Diego Córdova Rodríguez, A01781166
 David Elías Bazán Calvillo, AO1785747
 

@@ -21,6 +21,7 @@ Octavio Navarro
 **Alumnos:**
 - Diego Córdova Rodríguez, A01781166.
 - David Elías Bazán Calvillo, AO1785747.
+- Darío Peña, A01785420
 
 <span style="font-family: Verdana;">
 
@@ -177,5 +178,3 @@ Entre los comandos que utilizamos en esta última fase, se encuentran los siguie
 - [¿Qué es Git?](https://learn.microsoft.com/es-es/devops/develop/git/what-is-git)
 - [¿Qué son los repositorios?](https://docs.github.com/en/repositories/creating-and-managing-repositories/about-repositories)
 - [Markdown Guide](https://www.markdownguide.org/)
-
-##Darío Peña  a01785420

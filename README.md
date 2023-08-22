@@ -21,7 +21,7 @@ Octavio Navarro
 **Alumnos:**
 - Diego Córdova Rodríguez, A01781166.
 - David Elías Bazán Calvillo, AO1785747.
-- Darío Peña, A01785420
+- Darío Peña, A01785420.
 
 <span style="font-family: Verdana;">
 

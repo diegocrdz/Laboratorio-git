@@ -21,6 +21,7 @@ Octavio Navarro
 **Alumnos:**
 - Diego Córdova Rodríguez, A01781166
 - David Elías Bazán Calvillo, AO1785747
+- Sebastián González Del Moral, A01786196
 
 <span style="font-family: Verdana;">
 
@@ -44,6 +45,7 @@ A través de los repositorios se puede trabajar en equipo, colaborar, trabajar e
 A lo largo de estas clases, nos hemos adentrado a los aspectos más básicos de **GitHub**; es decir, lo que comprende crear un repositorio. De igual forma, aprendimos a clonar un **repositorio**, un **SSH** y **subir los cambios** al repositorio remoto.
 
 ---
+
 
 ## Día 1
 
@@ -177,3 +179,5 @@ Entre los comandos que utilizamos en esta última fase, se encuentran los siguie
 - [¿Qué es Git?](https://learn.microsoft.com/es-es/devops/develop/git/what-is-git)
 - [¿Qué son los repositorios?](https://docs.github.com/en/repositories/creating-and-managing-repositories/about-repositories)
 - [Markdown Guide](https://www.markdownguide.org/)
+
+- Markdown

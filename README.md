@@ -20,7 +20,7 @@ Octavio Navarro
 
 **Alumnos:**
 - Diego Córdova Rodríguez, A01781166
-- avid Elías Bazán Calvillo, AO1785747
+- David Elías Bazán Calvillo, AO1785747
 
 <span style="font-family: Verdana;">
 

@@ -19,8 +19,8 @@ Laboratorio Git: Resumen
 Octavio Navarro
 
 **Alumnos:**
-- Diego Córdova Rodríguez, A01781166
-- David Elías Bazán Calvillo, AO1785747
+- Diego Córdova Rodríguez, A01781166.
+- David Elías Bazán Calvillo, AO1785747.
 
 <span style="font-family: Verdana;">
 

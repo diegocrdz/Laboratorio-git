@@ -21,8 +21,9 @@ Octavio Navarro
 **Alumnos:**
 - Diego Córdova Rodríguez, A01781166
 - David Elías Bazán Calvillo, A01785747
+- Jerónimo Ortiz Laresgoiti, A01784793
+- Darío Cuahtémoc Peña Mariano, A01785747
 - Sebastián González Del Moral, A01786196
-- Darío Peña, A01785420.
 
 <span style="font-family: Verdana;">
 
